@@ -1,7 +1,7 @@
 # Keylogger
 wip
 
-step one - create simple socket
+step one - create simple socket tomorrow/tonight
 
 step two - create basic keylogging
 
