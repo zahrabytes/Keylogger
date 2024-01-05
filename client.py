@@ -1,7 +1,8 @@
-
 import socket
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.connect((socket.gethostname(), 6060))
 
 message = s.resv(2048)
+
+print(f"Message received: {message}")
